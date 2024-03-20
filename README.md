@@ -27,7 +27,7 @@ while(dev.isCoding())
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaganot-Singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### <img src= "https://media.giphy.com/media/qbvNxAZvXNErSHbEEV/giphy.gif" width="100" height="100px"> Random Dev Quote
+### <img src= "https://media.giphy.com/media/qbvNxAZvXNErSHbEEV/giphy.gif" width="100" height="100px">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
